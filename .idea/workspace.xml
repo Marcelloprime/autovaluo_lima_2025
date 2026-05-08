@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9c3eb43-474e-4a13-b48f-0f691c07816c" name="Changes" comment="Modelo, deploy y datos">
+    <list default="true" id="c9c3eb43-474e-4a13-b48f-0f691c07816c" name="Changes" comment="Actualiacion de deploy y modelado de datos. Incluimos Random Forest, XGBoost y">
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modelo.ipynb" beforeDir="false" />
     </list>
@@ -82,7 +82,7 @@
       <workItem from="1778181227089" duration="22000" />
       <workItem from="1778210622280" duration="6999000" />
       <workItem from="1778217769203" duration="5066000" />
-      <workItem from="1778254733618" duration="11264000" />
+      <workItem from="1778254733618" duration="12716000" />
     </task>
     <servers />
   </component>
