@@ -37,9 +37,9 @@
     "ant_constru",
     "pct_area_comun",
     "ratio_construccion_terreno",
-    "tipo_propietario_Condómino",
+    "tipo_propietario_CondÃ³mino",
     "tipo_propietario_Poseedor",
-    "tipo_propietario_Propietario Único",
+    "tipo_propietario_Propietario Ãšnico",
     "tipo_propietario_Responsable",
     "material_predio_Concreto",
     "material_predio_Ladrillo",
@@ -47,8 +47,8 @@
     "material_predio_No declarado"
   ],
   "tipo_propietario_values": [
-    "Propietario Único",
-    "Condómino",
+    "Propietario Ãšnico",
+    "CondÃ³mino",
     "Poseedor",
     "Responsable",
     "Concesionario"
