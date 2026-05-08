@@ -1,0 +1,65 @@
+{
+  "log_shifts": {
+    "pct_propiedad": 0.0,
+    "area_terreno": 0.0,
+    "area_total_construida": 0.0,
+    "pisos": 0.0,
+    "autovaluo": 0.0,
+    "Antiguedad_Adquisicion_Dias": 0.0,
+    "Antiguedad_Declaracion_Dias": 0.0,
+    "ant_constru": 0.0,
+    "pct_area_comun": 0.0,
+    "ratio_construccion_terreno": 0.0
+  },
+  "numerical_cols": [
+    "pct_propiedad",
+    "area_terreno",
+    "area_total_construida",
+    "pisos",
+    "autovaluo",
+    "Antiguedad_Adquisicion_Dias",
+    "Antiguedad_Declaracion_Dias",
+    "ant_constru",
+    "pct_area_comun",
+    "ratio_construccion_terreno"
+  ],
+  "categorical_cols": [
+    "tipo_propietario",
+    "material_predio"
+  ],
+  "feature_columns": [
+    "pct_propiedad",
+    "area_terreno",
+    "area_total_construida",
+    "pisos",
+    "Antiguedad_Adquisicion_Dias",
+    "Antiguedad_Declaracion_Dias",
+    "ant_constru",
+    "pct_area_comun",
+    "ratio_construccion_terreno",
+    "tipo_propietario_Condómino",
+    "tipo_propietario_Poseedor",
+    "tipo_propietario_Propietario Único",
+    "tipo_propietario_Responsable",
+    "material_predio_Concreto",
+    "material_predio_Ladrillo",
+    "material_predio_Madera u otros",
+    "material_predio_No declarado"
+  ],
+  "tipo_propietario_values": [
+    "Propietario Único",
+    "Condómino",
+    "Poseedor",
+    "Responsable",
+    "Concesionario"
+  ],
+  "material_predio_values": [
+    "Madera u otros",
+    "Ladrillo",
+    "Adobe",
+    "Concreto",
+    "No declarado"
+  ],
+  "area_terreno_median": 75.8,
+  "area_total_construida_median": 112.61
+}
