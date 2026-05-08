@@ -51,9 +51,10 @@ def load_models():
     fc  = joblib.load("models/feature_columns.joblib")
     fi_rf  = joblib.load("models/feat_imp_rf.joblib")
     fi_xgb = joblib.load("models/feat_imp_xgb.joblib")
-    with open("models/metrics.json") as f:
+    with open("models/metrics.json", encoding="utf-8") as f:
         metrics = json.load(f)
-    with open("models/preprocessing_info.json") as f:
+
+    with open("models/preprocessing_info.json", encoding="utf-8") as f:
         prep = json.load(f)
     return rf, xgb, mlp, imp, scl, fc, fi_rf, fi_xgb, metrics, prep
 
